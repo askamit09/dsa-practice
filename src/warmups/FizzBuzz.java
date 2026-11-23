@@ -11,7 +11,7 @@ package warmups;
 import java.util.ArrayList;
 import java.util.List;
 
-class Solution {
+class FizzBuzz {
     public List<String> fizzBuzz(int n) {
         ArrayList<String> arr = new ArrayList<>();
         for(int i = 0; i<n; i++){
